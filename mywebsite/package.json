@@ -1,0 +1,24 @@
+{
+  "name": "boostrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanceTseng/WebDevelopCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://LanceTseng.github.io/WebDevelopCourse",
+  "bugs": {
+    "url": "https://github.com/LanceTseng/WebDevelopCourse/issues"
+  },
+  "homepage": "https://github.com/LanceTseng/WebDevelopCourse#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
